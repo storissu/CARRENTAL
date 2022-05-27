@@ -1,0 +1,6 @@
+510057;Volkswagen;Polo;white;2009;gas;1.4;79000;true;288000;false;polo.png
+510058;Volkswagen;Golf;black;2020;gas;1.5;70000;true;330000;false;golf.png
+510059;Hyundai;i20;red;2002;gas;2.0;0;false;210000;false;i20.png
+510060;Audi;A3;White;2019;gas;1.4;0;false;870000;false;a3.png
+510061;BMW;iX3;Phytonic blue;2022;diesel;1.3;0;false;987000;false;ix3.png
+510062;Land Roaver;Range Rover Sport;gray;2016;diesel;1.6;180000;true;1268000;false;rr.png

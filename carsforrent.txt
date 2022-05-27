@@ -1,0 +1,10 @@
+510063;Honda;Civic;black;2009;diesel;2.0;false;345;gdrg
+510064;Nissan;Juke;red;2016;gas;1.7;false;375;gdrg
+510065;Opel;Corsa;white;2007;gas;1.8;false;130;gdrg
+510066;Ferrari;365 GTB/4;red;1972;diesel;1.4;false;245;gdrg
+510067;Nissan;Qashqai;white;2018;gas;1.9;false;450;gdrg
+510068;Ford;Fiesta;blue;2018;gas;1.6;false;450;gdrg
+510069;Citroen;C4;orange;2022;gas;1.7;false;370;gdrg
+510070;Dacia;Duster;orange;2010;diesel;1.5;true;260;gdrg
+510071;Ford;Focus;blue;2021;gas;2.0;true;390;gdrg
+510072;Reanult;Megane;black;2021;diesel;1.9;true;280;gdrg
